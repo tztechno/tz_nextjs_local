@@ -1,4 +1,4 @@
-
+```
 
 cd my-app
 npm run dev
@@ -17,15 +17,9 @@ nvm use --lts
 ✔ Would you like to use Turbopack for next dev? … No / Yes
 ✔ Would you like to customize the import alias (@/* by default)? … No / Yes
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tztechno/tz_nextjs_local.git
-git push -u origin main
-git add .
-git push -f origin main
 
 git add .
 git commit -m "2024-12-06"
 git push -u origin main
+
+```
